@@ -1,2 +1,1 @@
-version=2
-lol.txt=moonloader/lol.txt
+version=1

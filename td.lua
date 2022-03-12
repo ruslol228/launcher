@@ -2,7 +2,8 @@ require "lib.moonloader"
 local inicfg = require "inicfg"
 local directIni = "moonloader\\config\\td.ini"
 local mainIni = inicfg.load(nil, directIni)
-
+local encoding = require "encoding"
+encoding.default = 'CP1251'
 hg = renderLoadTextureFromFile(getGameDirectory() .. '\\moonloader\\config\\td\\hunger.png')
 --shops
 acs = renderLoadTextureFromFile(getGameDirectory() .. '\\moonloader\\config\\td\\head_acs_orp_orp.png')
@@ -33,7 +34,7 @@ capt = renderLoadTextureFromFile(getGameDirectory() .. '\\moonloader\\config\\td
 function main()
   repeat wait(0) until isSampAvailable()
   
-    sampAddChatMessage('{00BFFF}[MOBILE MOD] {ffffff}Совместно с Fraiser и cheeburechek загружен', 0xFFFFFFFF)
+    sampAddChatMessage('{00BFFF}[MOBILE MOD] {ffffff}РЎРѕРІРјРµСЃС‚РЅРѕ СЃ Fraiser Рё cheeburechek Р·Р°РіСЂСѓР¶РµРЅ', 0xFFFFFFFF)
     ip = sampGetCurrentServerAddress()
     if ip == "51.83.196.236" then
       floridablue = renderLoadTextureFromFile(getGameDirectory() .. '\\moonloader\\config\\td\\FLORIDA\\florida_blue_orp_onlinerplogo.png')
@@ -170,7 +171,7 @@ indianayellow = renderLoadTextureFromFile(getGameDirectory() .. '\\moonloader\\c
     renderDrawTexture(menubuyskin, 0, 420 + y2, resX, resY / 2.109375, 0.0, 0xFFFFFFFF)
     mon = sampTextdrawGetString(2149)
     str1 = sampTextdrawGetString(2159)
-    mon2 = string.gsub(str1, "_", "")    -- заменить ',' на ' -'
+    mon2 = string.gsub(str1, "_", "")    -- Г§Г Г¬ГҐГ­ГЁГІГј ',' Г­Г  ' -'
     mon3 = sampTextdrawGetString(2156)
     renderFontDrawText(font, mon3, 570 + ((resX - 1280) / 2.20689), 570 + ((resY - 720) / 1.2), 0xFFFFFFFF )
     sampTextdrawSetPos(2156, 1000, 1000)

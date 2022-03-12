@@ -1,4 +1,4 @@
-version=6
+version=7
 SpeedOff.luac=moonloader/SpeedOff.luac
 hud.luac=moonloader/hud.luac
 inventory.luac=moonloader/inventory.luac

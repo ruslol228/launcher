@@ -1,4 +1,4 @@
-version=8
+version=9
 SpeedOff.lua=moonloader/SpeedOff.lua
 hud.lua=moonloader/hud.lua
 inventory.lua=moonloader/inventory.lua

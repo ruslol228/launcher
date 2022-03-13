@@ -1,1 +1,6 @@
-version=7
+version=8
+SpeedOff.lua=moonloader/SpeedOff.lua
+hud.lua=moonloader/hud.lua
+inventory.lua=moonloader/inventory.lua
+speed.lua=moonloader/speed.lua
+td.lua=moonloader/td.lua

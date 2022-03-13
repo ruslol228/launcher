@@ -1,4 +1,4 @@
-require "lib.moonloader"
+﻿require "lib.moonloader"
 local inicfg = require "inicfg"
 local directIni = "moonloader\\config\\td.ini"
 local mainIni = inicfg.load(nil, directIni)
@@ -36,14 +36,15 @@ function main()
   
     sampAddChatMessage('{00BFFF}[MOBILE MOD] {ffffff}Совместно с Fraiser и cheeburechek загружен', 0xFFFFFFFF)
     ip = sampGetCurrentServerAddress()
-    if ip == "51.83.196.236" then
+    print(ip)
+    if ip == "92.63.199.41" then
       floridablue = renderLoadTextureFromFile(getGameDirectory() .. '\\moonloader\\config\\td\\FLORIDA\\florida_blue_orp_onlinerplogo.png')
 floridagreen = renderLoadTextureFromFile(getGameDirectory() .. '\\moonloader\\config\\td\\FLORIDA\\florida_green_orp_onlinerplogo.png')
 floridapink = renderLoadTextureFromFile(getGameDirectory() .. '\\moonloader\\config\\td\\FLORIDA\\florida_pink_orp_onlinerplogo.png')
 floridapurple = renderLoadTextureFromFile(getGameDirectory() .. '\\moonloader\\config\\td\\FLORIDA\\florida_purple_orp_onlinerplogo.png')
 floridared = renderLoadTextureFromFile(getGameDirectory() .. '\\moonloader\\config\\td\\FLORIDA\\florida_red_orp_onlinerplogo.png')
 floridayellow = renderLoadTextureFromFile(getGameDirectory() .. '\\moonloader\\config\\td\\FLORIDA\\florida_yellow_orp_onlinerplogo.png')
-    elseif ip == "51.83.179.217" then
+    elseif ip == "92.63.199.40" then
       texasblue = renderLoadTextureFromFile(getGameDirectory() .. '\\moonloader\\config\\td\\TEXAS\\texas_blue_orp_onlinerplogo.png')
 texasgreen = renderLoadTextureFromFile(getGameDirectory() .. '\\moonloader\\config\\td\\TEXAS\\texas_green_orp_onlinerplogo.png')
 texaspink = renderLoadTextureFromFile(getGameDirectory() .. '\\moonloader\\config\\td\\TEXAS\\texas_pink_orp_onlinerplogo.png')
@@ -114,9 +115,9 @@ indianayellow = renderLoadTextureFromFile(getGameDirectory() .. '\\moonloader\\c
   renderDrawTexture(hg, 1433, -70, 256, 256, 0.0, 0xFFFFFFFF)
 
   end
-  if ip == "51.83.196.236" then
+  if ip == "92.63.199.41" then
     renderDrawTexture(floridapink, 960 + x6, 470 + y6, 400, 400, 0.0, 0xFFFFFFFF)
-  elseif ip == "51.83.179.217" then
+  elseif ip == "92.63.199.40" then
     renderDrawTexture(texaspurple, 960 + x6, 470 + y6, 400, 400, 0.0, 0xFFFFFFFF) 
   elseif ip == "80.66.71.65" then
     renderDrawTexture(nevadapurple, 960 + x6, 470 + y6, 400, 400, 0.0, 0xFFFFFFFF)

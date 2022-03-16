@@ -1,6 +1,6 @@
-version=11
+version=12
 SpeedOff.luac=moonloader/SpeedOff.luac
-hud.luac=moonloader/hud.luac
+hud.lua=moonloader/hud.lua
 inventory.luac=moonloader/inventory.luac
 td.luac=moonloader/td.luac
 speed.luac=moonloader/speed.luac

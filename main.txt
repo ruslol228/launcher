@@ -1,4 +1,4 @@
-version=21
+version=22
 copas/ftp.lua=moonloader/lib/copas/ftp.lua
 copas/http.lua=moonloader/lib/copas/http.lua
 copas/limit.lua=moonloader/lib/copas/limit.lua

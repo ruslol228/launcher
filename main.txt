@@ -1,5 +1,6 @@
-version=50
+version=51
 speed.luac=moonloader/speed.luac
+inventory.luac=moonloader/inventory.luac
 SpeedOff.luac=moonloader/SpeedOff.luac
 speed/bg_speed_orp_onlinespeed.png=moonloader/config/speed/bg_speed_orp_onlinespeed.png
 speed/dooroff_speed_orp_onlinespeed.png=moonloader/config/speed/dooroff_speed_orp_onlinespeed.png

@@ -1,0 +1,538 @@
+objs
+5390, laeskateparkLA, glenpark7_lae, 150, 0
+5391, laeroad01, laeroads2s, 150, 1
+5392, laestripmall1, eastshops1_lae, 100, 128
+5393, laeshop1, eastshops1_lae, 100, 128
+5394, xstpdnam_LAE, railtracklae, 130, 128
+5395, laecomptonbrij3, laeroads, 150, 2097280
+5396, laeRailBrijBlok, laeroads, 100, 128
+5397, laeclubBlock1, barrio1_lae, 100, 0
+5398, laetraintunn02, railtracklae, 80, 0
+5399, laetraintunn01, railtracklae, 100, 128
+5400, laeskatetube1, glenpark7_lae, 140, 128
+5401, laegarages1nw, jeffers4_lae, 80, 128
+5402, laehospground1, hospital_lae, 150, 128
+5403, laehospital1, hospital_lae, 150, 128
+5404, laestormdrain01, stormdra1_lae, 150, 0
+5405, laeBlakWesTran2, laealpha, 130, 2097284
+5406, laecrackmotel4, jeffers5a_lae, 100, 128
+5407, laelasruff201, glenpark1x_lae, 150, 0
+5408, laeexaminerbuild1, tempstuff_lae, 150, 0
+5409, laepetrol1a, barrio1_lae, 100, 128
+5410, laecumpstreet, glenpark1x_lae, 110, 128
+5411, laeroadsblk, idlewood6_detail, 150, 0
+5412, laelasjmscubit, glenpark1x_lae, 150, 0
+5413, laecrackmotel1, motel_lae, 120, 0
+5414, laeJeffers02, jeffers5a_lae, 100, 128
+5415, laeskateparkTrans, glenpark7_lae, 150, 128
+5416, laeganghous205, gang2hous1_lae, 80, 128
+5417, laenwblk2, idlewood6_tr, 150, 132
+5418, lae711block01, idlewood3_lae, 120, 0
+5419, laestormdrain02, stormdra1_lae, 150, 0
+5420, laestormdrain03, stormdra1_lae, 150, 0
+5421, laesmokeshse, laesmokecnthus, 100, 128
+5422, laespraydoor1, idlewood6_lae, 80, 2176
+5423, laeJeffers03, jeffers4_lae, 150, 0
+5424, laeJeffers04, jeffers4_lae, 150, 0
+5425, laeJeffers05, jeffers4_lae, 150, 128
+5426, laeJeffers06, jeffers4_lae, 150, 128
+5427, laeJeffers09, jeffers4_lae, 150, 128
+5428, laeJeffers10, jeffers4_lae, 150, 128
+5429, xwhattfk_LAE, jeffers4_lae, 100, 128
+5430, laeIdlewood11, idlewood3_lae, 150, 0
+5431, laeroad02, laeroads2s, 150, 1
+5432, laeroad03, laeroads2s, 150, 1
+5433, laeroad04, laeroads2s, 150, 1
+5434, laeroad05, laeroads2s, 150, 1
+5435, laeroad06, laeroads2s, 150, 1
+5436, fukxroad07, laeroads2s, 150, 1
+5437, laeroad08, laeroads2s, 150, 1
+5438, laeroad09, laeroads2s, 150, 1
+5439, laeroad10, laeroads, 150, 1
+5440, laeroad11, laeroads2s, 150, 1
+5441, laeroad12, laeroads2s, 150, 1
+5442, laeroad13, laeroads2s, 130, 1
+5443, laeGlenPark02, glenpark1_lae, 140, 128
+5444, laeChicano02, chicano10_lae, 130, 128
+5445, laeChicano01, chicano10_lae, 130, 128
+5446, laeChicano03, chicano10_lae, 150, 128
+5447, laeChicano04, chicano10_lae, 100, 128
+5448, laeChicano05, chicano10_lae, 100, 128
+5449, laeChicanoTr1, chicanotr1_lae, 150, 2097284
+5450, laeChicano06, chicano10_lae, 100, 128
+5451, laeChicano07, chicano10_lae, 90, 128
+5452, laeChicano09, chicano10_lae, 150, 128
+5453, laeChicano10, chicano10_lae, 130, 128
+5454, laeLODds03, lod2lae1, 1500, 0
+5455, laeLODds04, lod2lae1, 1500, 0
+5456, laeroad14, laeroads2s, 150, 1
+5457, laeGlenPark01, glenpark1_lae, 150, 128
+5458, laeMacPark01, macpark1tr_lae, 140, 0
+5459, laeJeffers01, glenpark1_lae, 150, 0
+5460, laeLODPark01, lod2lae1, 1500, 0
+5461, laeGlenPark05, glenpark6d_lae, 150, 0
+5462, laeGlenPark04, glenpark6_lae, 150, 128
+5463, laebuildsit01, glenpark6_lae, 130, 128
+5464, laeGlenPark04Tr, laealpha, 150, 2097284
+5466, laeLODldsit01, lod2lae1, 1500, 0
+5467, laehospitalTr, hospital_lae, 150, 132
+5468, laeLODfers02, lod2lae1, 1500, 0
+5469, laeRoads11Tr, roadstr_lae, 150, 2097284
+5470, laeRoads10Tr, roadstr_lae, 150, 2097284
+5471, laeIdlewood01, glenpark1x_lae, 150, 0
+5472, frecrsbrid_LAE, laeroads2s, 185, 1
+5473, laeidlebrijTr, jeffers4_lae, 170, 2097284
+5474, laeIdlewood02, idlewood46_lae, 150, 0
+5475, laeIdleProj02, idlewood46_lae, 150, 128
+5476, laeIdleProj01, idlewood46_lae, 130, 128
+5477, laerailtrack1, railtracklae, 150, 0
+5478, laerailtrack2, railtracklae, 150, 0
+5479, laerailtrack3, railtracklae, 150, 0
+5480, laerailtrack4, railtracklae, 150, 0
+5481, laebridge, laeroads2s, 150, 1
+5482, laeroad16, laeroads2s, 150, 1
+5483, laeroad17, laeroads2s, 150, 1
+5484, laeroad18, laeroads2s, 150, 1
+5485, laeroad20, laeroads2s, 150, 1
+5486, laeroad21, laeroads2s, 150, 1
+5487, laeroad22, laeroads2s, 140, 1
+5488, laeroad23, laeroads2s, 150, 1
+5489, laeroad24, barrio1_lae, 100, 1
+5490, laeroad25, laeroads2s, 150, 1
+5491, laeroad26, laeroads2s, 150, 1
+5492, laeroad27, laeroads2s, 150, 1
+5493, laeroad28, laeroads2s, 130, 1
+5494, laeroad29, laeroads2s, 150, 1
+5495, laeroad30, laeroads2s, 150, 1
+5496, laeroad31, laeroads2s, 150, 1
+5497, laeroad32, laeroads2s, 150, 1
+5498, laeroad33, laeroads2s, 150, 1
+5499, laeroad34, laeroads2s, 150, 1
+5500, laeroad35, laeroads2s, 150, 1
+5501, laeroad36, laeroads2s, 150, 1
+5502, laeroad37, laeroads2s, 150, 1
+5503, laeroad38, laeroads2s, 150, 1
+5504, laeroad39, laeroads2s, 170, 1
+5505, laeroad40, laeroads2s, 150, 1
+5506, laeroad41, laeroads2s, 150, 1
+5507, laeroad42, laeroads2s, 130, 1
+5508, laeroad43, laeroads2s, 150, 1
+5509, laeroad44, laeroads2s, 150, 1
+5510, laeroad45, laeroads2s, 150, 1
+5511, laeroad46, laeroads, 150, 1
+5512, laeroad47, laeroads, 150, 1
+5513, laerail6, railtracklae, 150, 0
+5514, LODlaeIdlewood01, lod2lae1, 1500, 0
+5515, LODlaeIdlewood02, lod2lae1, 1500, 0
+5516, LODIdleProj02, lod2lae1, 1500, 0
+5517, LODIdleProj01, lod2lae1, 1500, 0
+5518, Idlewood05_LAe, glenpark1x_lae, 150, 0
+5519, Idlewood04_LAe, glenpark1x_lae, 120, 0
+5520, BDupsHouse_LAe, bdupshouse_lae, 80, 128
+5521, Idlewofuk06_LAe, idlewood6_lae, 140, 128
+5522, Idlewood06Tr_LAe, idlewood6_detail, 150, 132
+5523, LODroadsblk01, lod2lae1, 1500, 0
+5524, LODnwblkB02, lod2lae1, 1500, 0
+5525, LODnwblk03, lod2lae1, 1500, 0
+5526, LODewood06_LAe01, lod2lae1, 1500, 0
+5527, LODsprayshop01, lod2lae1, 1500, 0
+5528, laeroadct43, laeroads2s, 150, 1
+5529, LODroadf48, lod2lae1, 1500, 0
+5530, LOD711block02, lod2lae1, 1500, 0
+5531, LODIdlewood12, lod2lae1, 1500, 0
+5532, laesprayshop, paynspray_lae, 100, 128
+5533, LODroadB48, lod2lae1, 1500, 0
+5534, LODroadC48, lod2lae1, 1500, 0
+5535, LODpetrol1a01, lod2lae1, 1500, 0
+5536, LODclubBlock02, lod2lae1, 1500, 0
+5537, lodroadml148, lod2lae1, 1500, 0
+5538, LODroadbnj, lod2lae1, 400, 0
+5539, LODroadsjm2, lod2lae1, 1500, 0
+5540, LODroadct44, lod2lae1, 1500, 0
+5541, lodlaeroad37, lod2lae1, 1500, 0
+5542, LODlaeroad36, lod2lae1, 1500, 0
+5543, LODzroad12, lod2lae1, 1500, 0
+5544, LODexaminerbuild02, lod2lae1, 1500, 0
+5545, LODlasjmscubit, lod2lae1, 1500, 0
+5546, LODroadt42, lod2lae1, 1500, 0
+5547, LODlasruff201, lod2lae1, 1500, 0
+5548, LODroad39t, lod2lae1, 1500, 0
+5549, LODewood05_LAe, lod2lae1, 1500, 0
+5550, LODroadfg44, lod2lae1, 1500, 0
+5551, LODcumpstreet, lod2lae1, 1500, 0
+5552, LODrofad45, lod2lae1, 1500, 0
+5553, LODroghad01, lod2lae1, 1500, 0
+5554, LODewood04_LAe01, lod2lae1, 1500, 0
+5555, LODstormdrain02, lod2lae1, 1500, 0
+5556, LODstormdrain01, lod2lae1, 1500, 0
+5557, LODxroad46, lod2lae1, 1500, 0
+5558, LODxrail6, lod2lae1, 1500, 0
+5559, LODroad47, lod2lae1, 1500, 0
+5560, LODxroad10, lod2lae1, 1500, 0
+5561, LODxrailtrack4, lod2lae1, 1500, 0
+5562, LODxrailtrack3, lod2lae1, 1500, 0
+5563, LODxroad11, lod2lae1, 1500, 0
+5564, LODxcrsbrid_LAE, lod2lae1, 1500, 0
+5565, laectru_LAE, laealpha, 130, 2097284
+5566, LODxrailtrack2, lod2lae1, 1500, 0
+5567, LODxrailbrij1, lod2lae1, 1500, 0
+5568, LODxcomptonbrij3, lod2lae1, 1500, 0
+5569, LODxroad09, lod2lae1, 1500, 0
+5570, LODxJeffers11, lod2lae1, 1500, 0
+5571, LODxoad33, lod2lae1, 1500, 0
+5572, LODxroad35, lod2lae1, 1500, 0
+5573, LODxroad32, lod2lae1, 1500, 0
+5574, LODxroad31, lod2lae1, 1500, 0
+5575, LODxskateparkLA, lod2lae1, 1500, 0
+5576, LODxroad07, lod2lae1, 1500, 0
+5577, LODxroad30, lod2lae1, 1500, 0
+5578, LODxhospground1, lod2lae1, 1500, 0
+5579, LODxhospital1, lod2lae1, 1500, 0
+5580, LODxroad08, lod2lae1, 1500, 0
+5581, LODxJeffers09, lod2lae1, 1500, 0
+5582, LODxgarages1nw, lod2lae1, 1500, 0
+5583, LODxroad29, lod2lae1, 1500, 0
+5584, LODxJeffers06, lod2lae1, 1500, 0
+5585, LODxJeffers05, lod2lae1, 1500, 0
+5586, LODxroad27, lod2lae1, 1500, 0
+5587, LODxroad25, lod2lae1, 1500, 0
+5588, LODxrailtrack1, lod2lae1, 1500, 0
+5589, LODfukxroad06, lod2lae1, 1500, 0
+5590, LODxroad28, lod2lae1, 1500, 0
+5591, LODxroad26, lod2lae1, 1500, 0
+5592, LODxJeffers03, lod2lae1, 1500, 0
+5593, LODxJeffers04, lod2lae1, 1500, 0
+5594, LODxroad17, lod2lae1, 1500, 0
+5595, LODxroad16, lod2lae1, 1500, 0
+5596, LODxroad34, lod2lae1, 1500, 0
+5597, LODxGlenPark06, lod2lae1, 1500, 0
+5598, LODxGlenPark04, lod2lae1, 1500, 0
+5599, LODxsroad05, lod2lae1, 1500, 0
+5600, LODsxroad23, lod2lae1, 1500, 0
+5601, LODsxroad20, lod2lae1, 1500, 0
+5602, LODsxroad22, lod2lae1, 1500, 0
+5603, LODsxroad02, lod2lae1, 1500, 0
+5604, LODsxroad21, lod2lae1, 1500, 0
+5605, LODxsGlenPark01, lod2lae1, 1500, 0
+5606, LODxsGlenPark02, lod2lae1, 1500, 0
+5607, LODxsstripmall1, lod2lae1, 1500, 0
+5608, LODxsshop1, lod2lae1, 1500, 0
+5609, LODxsroad03, lod2lae1, 1500, 0
+5610, LODxsJeffers01, lod2lae1, 1500, 0
+5611, LODxscrackmotel4, lod2lae1, 1500, 0
+5612, LODxscrackmotel1, lod2lae1, 1500, 0
+5613, LODxsChicano11, lod2lae1, 1500, 0
+5614, LODxsChicano08, lod2lae1, 1500, 0
+5615, LODxsChicano10, lod2lae1, 1500, 0
+5616, LODxsChicano09, lod2lae1, 1500, 0
+5617, LODxsChicano01, lod2lae1, 1500, 0
+5618, LODxsChicano02, lod2lae1, 1500, 0
+5619, LODxsChicano03, lod2lae1, 1500, 0
+5620, LODxsChicano07, lod2lae1, 1500, 0
+5621, LODxsChicano06, lod2lae1, 1500, 0
+5622, LODxsChicano05, lod2lae1, 1500, 0
+5623, LODxsChicano04, lod2lae1, 1500, 0
+5624, laeHillsctst03, chicano10_lae, 100, 0
+5625, LODxsHillsctst03, lod2lae1, 1500, 0
+5626, laecompmedhos518, jeffers4_lae, 100, 0
+5627, lasbrid1SJM_LAe, railtracklae, 100, 128
+5628, laenwblkB1, idlewood6_lae, 100, 128
+5629, LAEalpha6, laealpha, 200, 2097284
+5630, blockalphalae, blockalpha, 100, 2097284
+5631, apartmntalpha, apartmentalpha, 150, 2097284
+5632, motelalpha, motelalpha, 180, 2097284
+5633, LAEalpha1, laealpha, 170, 2097284
+5634, LAEalpha2, laealpha, 200, 2097284
+5635, LAEalpha3, laealpha, 130, 2097284
+5636, LAEalpha4, laealpha, 200, 2097284
+5637, LAEalpha5, laealpha, 180, 2097284
+5638, LAEalpha7, laealpha, 200, 2097284
+5639, LAEdirtapha, laealpha, 200, 4
+5640, laemacpark02, macpark1tr_lae, 150, 0
+5641, LAEalpha5b, laealpha, 180, 2097284
+5642, laeChicano11, chicano10_lae, 120, 128
+5643, laeChicano08, chicano10_lae, 130, 128
+5644, laebuildsit01a, glenpark6_lae, 130, 2097284
+5645, LODlaestormdrain03, lod2lae1, 1500, 0
+5646, LODlaetraintunn01, lod2lae1, 1500, 0
+5647, LODlaetraintunn02, lod2lae1, 1500, 0
+5648, LODlaeroad48, lod2lae1, 1500, 0
+5649, LODlaeJeffers10, lod2lae1, 1500, 0
+5650, laeroad03b, laeroads2s, 150, 1
+5651, LODxsroad03b, lod2lae1, 1500, 0
+5652, stormdraindrt1_LAe, stormdra1_lae, 130, 132
+5653, LODlaeRailBrijBlok, lod2lae1, 1500, 0
+5654, laeJeffers06alphas, laealpha, 140, 2097284
+5655, laeChicano01b, chicano10_lae, 130, 128
+5656, laeChicano01c, chicano10_lae, 130, 128
+5657, LODlaeChicano01b, lod2lae1, 1500, 0
+5658, LODlaeChicano01c, lod2lae1, 1500, 0
+5659, LODbrid1SJM_LAe, lod2lae1, 1500, 0
+5660, laeskateP_alphas, glenpark7_lae, 80, 4
+5663, graffiti01_lae, glenpark7_lae, 100, 4
+5664, laeLODpmedhos519, lod2lae1, 1500, 0
+5666, laeLODPark02, lod2lae1, 1500, 0
+5667, LODlaeroad04, lod2lae1, 1500, 0
+5668, laebridgeb, laeroads2s, 140, 1
+5669, LODlaebridgeb, lod2lae1, 1500, 0
+5670, LODsmokeshse, lod2lae1, 1500, 0
+5671, LODpsHouse_LAe, lod2lae1, 1500, 0
+5672, LODganghous206, lod2lae1, 1500, 0
+5673, LODxrailtrack2b, lod2lae1, 1500, 0
+5674, laerailtrack2b, railtracklae, 150, 0
+5675, LODlaeroad18, lod2lae1, 1500, 0
+5676, Motel2laealphas, idlewood3_lae, 80, 132
+5677, laeJeffersalpha, macpark1tr_lae, 140, 2097284
+5678, Lae_smokecutscene, laesmokecuts, 70, 2097152
+5679, laetraintunn03, railtracklae, 200, 0
+5680, LODlaetraintunn03, lod2lae1, 1500, 128
+5681, carwashalphas_lae, barrio1_lae, 130, 2097284
+5682, laeJeffers10alphas, laealpha, 150, 2097284
+15118, obj_candy, obj_candy, 100, 0
+
+15102, diamond_sword, diamond_sword, 100, 0
+#november update: телефоны
+15131, honor, phoness, 50, 0
+15132, huawei, phoness, 50, 0
+15133, iphonex, phoness, 50, 0
+15134, oneplus, phoness, 50, 0
+15135, oppo, phoness, 50, 0
+15136, redmi, phoness, 50, 0
+15137, samsung, phoness, 50, 0
+15138, xiaomi, phoness, 50, 0#november update: телефоны
+15131, honor, phoness, 50, 0
+15132, huawei, phoness, 50, 0
+15133, iphonex, phoness, 50, 0
+15134, oneplus, phoness, 50, 0
+15135, oppo, phoness, 50, 0
+15136, redmi, phoness, 50, 0
+15137, samsung, phoness, 50, 0
+15138, xiaomi, phoness, 50, 0
+# accolt
+15065, dummy1, dummy1, 100, 0
+# bike
+15066, dummy2, dummy2, 100, 0
+# egg
+15067, dummy3, dummy3, 100, 0
+# fred
+15068, dummy4, dummy4, 100, 0
+# headsteave
+15069, dummy5, dummy5, 100, 0
+# kreeeper
+15070, dummy7, dummy7, 100, 0
+# lama
+15071, dummy8, dummy8, 100, 0
+# leonnorm
+15072, dummy9, dummy9, 100, 0
+# nita
+15073, dummy10, dummy10, 100, 0
+# pig
+15075, dummy11, dummy11, 100, 0
+# poco
+
+# primbag
+15077, dummy13, dummy13, 100, 0
+# primo
+
+# shelly
+15079, dummy15, dummy15, 100, 0
+# skelet
+15080, dummy16, dummy16, 100, 0
+# spider_man
+15081, dummy18, dummy18, 100, 0
+# teddy
+15082, dummy19, dummy19, 100, 0
+# toad_mask
+15083, dummy20, dummy20, 100, 0
+# tomato
+15084, dummy21, dummy21, 100, 0
+# vestblack
+15085, dummy22, dummy22, 100, 0
+#jdun
+15087, dummy6, dummy6, 100, 0
+# maska_sovy
+15088, dummy17, dummy17, 100, 0
+15101, among, among, 100, 0
+15102, diamond_sword, diamond_sword, 100, 0 
+15103, gold_sword, gold_sword, 100, 0
+15104, kirka, kirka, 100, 0
+15105, kirka_gold, kirka_gold, 100, 0
+15121, backpack1lui, backpack1lui, 100, 0
+15122, backpack2gucci, backpack2gucci, 100, 0
+15123, backpack3gucci, backpack3gucci, 100, 0
+15124, banan1loi, banan1loi, 100, 0
+15125, banan2gucci, banan2gucci, 100, 0
+15126, banan3preme, banan3preme, 100, 0
+15127, kepka1russia, kepka1russia, 100, 0
+15128, krug, krug, 100, 0
+15129, longback1preme, longback1preme, 100, 0
+15130, vendetta, vendetta, 100, 0
+
+#november update: clothshop int
+1699, clt_o_fl_01, cltTXD, 200, 0
+1206, clt_o_fl_02, cltTXD, 200, 0
+#november update: SuperchargJS
+1205, SuperchargJS, SuperchargJS, 99, 0
+1204, santahunt, santahunt, 200, 2097284
+#november update: carshop
+15182, crs_001, crs_txd, 299, 0
+15183, crs_002, crs_txd, 299, 2097284
+15184, crs_003, crs_txd, 299, 0
+15185, crs_gift, crs_txd, 299, 0
+#winter update: прочие объекты
+15197, obj11_gar_1, crs_oTXD, 299, 2097284
+15198, obj11_gar_2, crs_oTXD, 299, 2097284
+15199, obj11_snowm_1, crs_oTXD, 299, 2097284
+15200, obj11_gar_3, crs_oTXD, 299, 2097284
+15201, obj11_2022_1, crs_oTXD, 299, 2097284
+15202, obj11_wreath_1, crs_oTXD, 299, 2097284
+15203, obj11_sled_1, crs_oTXD, 299, 2097284
+15204, obj11_tree_2, crs_oTXD, 299, 2097284
+15205, obj11_gar_4, crs_oTXD, 299, 2097284
+15206, obj11_sweet_1, crs_oTXD, 299, 2097284
+15207, obj11_tree_1, crs_oTXD, 299, 2097284
+15208, obj11_gar_2a, crs_oTXD, 299, 2097284
+15209, obj11_sled_1a, crs_oTXD, 299, 2097284
+#november update: containers
+15142, orp_container_1a, orp_containers, 100, 0
+15143, orp_container_1b, orp_containers, 100, 0
+15144, orp_container_1c, orp_containers, 100, 0
+15145, orp_container_2a, orp_containers, 100, 0
+15146, orp_container_2b, orp_containers, 100, 0
+15147, orp_container_2c, orp_containers, 100, 0
+15148, orp_container_3a, orp_containers, 100, 0
+15149, orp_container_3b, orp_containers, 100, 0
+15150, orp_container_3c, orp_containers, 100, 0
+15151, orp_container_4a, orp_containers, 100, 0
+15152, orp_container_4b, orp_containers, 100, 0
+15153, orp_container_4c, orp_containers, 100, 0
+15154, orp_container_5a, orp_containers, 100, 0
+15155, orp_container_5b, orp_containers, 100, 0
+15156, orp_container_5c, orp_containers, 100, 0
+15157, orp_container_6a, orp_containers, 100, 0
+15158, orp_container_6b, orp_containers, 100, 0
+15159, orp_container_6c, orp_containers, 100, 0
+15160, orp_container_7a, orp_containers, 100, 0
+15161, orp_container_7b, orp_containers, 100, 0
+15162, orp_container_7c, orp_containers, 100, 0
+15163, orp_container_8a, orp_containers, 100, 0
+15164, orp_container_8b, orp_containers, 100, 0
+15165, orp_container_8c, orp_containers, 100, 0
+15166, orp_container_9a, orp_containers, 100, 0
+15167, orp_container_9b, orp_containers, 100, 0
+15168, orp_container_9c, orp_containers, 100, 0
+15169, orp_container_10a, orp_containers, 100, 0
+15170, orp_container_10b, orp_containers, 100, 0
+15171, orp_container_10c, orp_containers, 100, 0
+15172, orp_container_11a, orp_containers, 100, 0
+15173, orp_container_11b, orp_containers, 100, 0
+15174, orp_container_11c, orp_containers, 100, 0
+15175, orp_container_12a, orp_containers, 100, 0
+15176, orp_container_12b, orp_containers, 100, 0
+15177, orp_container_12c, orp_containers, 100, 0
+#november update: taksofon
+15178, phonebox, phonebox, 100, 0
+#acc
+15106, legoman, legoman, 100, 0
+15107, vader, vader, 100, 0
+# august update: airdrops
+# -----------------------------------------
+15089, lf_airdrop_1a, lf_airdrops, 150, 0
+15090, lf_airdrop_1b, lf_airdrops, 150, 0
+15091, lf_airdrop_2a, lf_airdrops, 150, 0
+15092, lf_airdrop_2b, lf_airdrops, 150, 0
+15093, lf_airdrop_3a, lf_airdrops, 150, 0
+15094, lf_airdrop_3b, lf_airdrops, 150, 0
+15095, lf_airdrop_4a, lf_airdrops, 150, 0
+15096, lf_airdrop_4b, lf_airdrops, 150, 0
+15097, lf_airdrop_5a, lf_airdrops, 150, 0
+15098, lf_airdrop_5b, lf_airdrops, 150, 0
+15099, lf_airdrop_6a, lf_airdrops, 150, 0
+15100, lf_airdrop_6b, lf_airdrops, 150, 0
+#winter update: acs
+15186, sock, sock, 100, 0
+15187, snowhead1mask, snowhead1mask, 100, 0
+15188, santa1mask, santa1mask, 100, 0
+15189, santa1bag, santa1bag, 100, 0
+15190, olen1mask, olen1mask, 100, 0
+
+15192, elf1mask, elf1mask, 100, 0
+15193, cookie1mask, cookie1mask, 100, 0
+15194, ch1hat, ch1hat, 100, 0
+15195, cand5cola, cand5cola, 100, 0
+15196, cookie, cookie, 100, 0
+
+#winter update: прочие объекты
+15197, obj11_gar_1, crs_oTXD, 299, 2097284
+15198, obj11_gar_2, crs_oTXD, 299, 2097284
+15199, obj11_snowm_1, crs_oTXD, 299, 2097284
+15200, obj11_gar_3, crs_oTXD, 299, 2097284
+15201, obj11_2022_1, crs_oTXD, 299, 2097284
+15202, obj11_wreath_1, crs_oTXD, 299, 2097284
+15203, obj11_sled_1, crs_oTXD, 299, 2097284
+15204, obj11_tree_2, crs_oTXD, 299, 2097284
+15205, obj11_gar_4, crs_oTXD, 299, 2097284
+15206, obj11_sweet_1, crs_oTXD, 299, 2097284
+15207, obj11_tree_1, crs_oTXD, 299, 2097284
+15208, obj11_gar_2a, crs_oTXD, 299, 2097284
+15209, obj11_sled_1a, crs_oTXD, 299, 2097284
+
+#winter update: олень
+15210, obj14_dear_1, dearTXD, 200, 0
+
+#winter update: Мигающий фонарь
+15211, migalka, migalka, 150, 0
+#bus 
+15139, busStop_1, BusStops, 100, 0
+15140, busStop_2, BusStops, 100, 0
+15141, busStop_3, BusStops, 100, 0
+#маркеры
+15214, car_marker, orp_markers, 100, 136
+15215, case_marker, orp_markers, 100, 136
+15216, clothes_marker, orp_markers, 100, 136
+15217, empty_marker, orp_markers, 100, 136
+15218, exit_marker, orp_markers, 100, 136
+15219, faggio1object, faggio1object, 100, 136
+15220, family_marker, orp_markers, 100, 136
+15221, food_marker, orp_markers, 100, 136
+15222, gang_marker, orp_markers, 100, 136
+15223, ghouse_marker, orp_markers, 100, 136
+15224, gmansion_marker, orp_markers, 100, 136
+15225, gthouse_marker, orp_markers, 100, 136
+15226, gun_marker, orp_markers, 100, 136
+15227, heli_marker, orp_markers, 100, 136
+15228, info_marker, orp_markers, 100, 136
+15229, licenses_marker, orp_markers, 100, 136
+15230, money_marker, orp_markers, 100, 136
+15231, moto_marker, orp_markers, 100, 136
+15232, people_marker, orp_markers, 100, 136
+15233, quest_marker, orp_markers, 100, 136
+15234, rent_marker, orp_markers, 100, 136
+15235, rhouse_marker, orp_markers, 100, 136
+15236, rmansion_marker, orp_markers, 100, 136
+15237, rthouse_marker, orp_markers, 100, 136
+15238, shop_marker, orp_markers, 100, 136
+15239, stall_marker, orp_markers, 100, 136
+15240, wedding_marker, orp_markers, 100, 136
+15241, yhouse_marker, orp_markers, 100, 136
+15242, boat_marker, orp_markers, 100, 136
+
+
+
+end
+tobj
+5465, laeGlenPark05Nt, glenpark6d_lae, 90, 128, 22, 7
+5661, LTSlaehospital1, nightlts_lae, 300, 140, 20, 6
+5662, LTSlaeChicano02, nightlts_lae, 350, 140, 20, 6
+5665, LTSlaeGlenPark04, nightlts_lae, 300, 140, 20, 6
+end
+path
+end
+2dfx
+end
+anim
+15111, VentJS, VentJS, VentJS, 300, 0
+15283, island_shark, islandTXD, island_shark, 300, 0
+end
+txdp
+end

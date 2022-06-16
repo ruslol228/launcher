@@ -1,4 +1,4 @@
-version=56
+version=60
 faggio1object.txd=faggio1object.txd
 orp_markers.txd=orp_markers.txd
 modloader/gta3_img/boat_marker.dff=modloader/gta3_img/boat_marker.dff

@@ -288,7 +288,6 @@ objs
 5680, LODlaetraintunn03, lod2lae1, 1500, 128
 5681, carwashalphas_lae, barrio1_lae, 130, 2097284
 5682, laeJeffers10alphas, laealpha, 150, 2097284
-15118, obj_candy, obj_candy, 100, 0
 
 15102, diamond_sword, diamond_sword, 100, 0
 #november update: телефоны
@@ -517,6 +516,47 @@ objs
 15241, yhouse_marker, orp_markers, 100, 136
 15242, boat_marker, orp_markers, 100, 136
 
+15243, taxiroof, taxiroof, 100, 0
+15244, bnk_obj_1, bnk_obj_1, 299, 0
+15245, chillidogcart2, dog_obj_1, 299, 2097284
+15246, trl_int, trl_int, 299, 0
+15247, trl_int_drug, trl_int_drug, 299, 0
+15248, trl_int_prop, trl_int_prop, 299, 0
+15249, trailer_derevo_002, trailer_derevo_1, 299, 0
+15250, nelegal, trailer_derevo_1, 299, 2097284
+15251, legal, trailer_derevo_1, 299, 2097284
+15252, glass, trailer_derevo_1, 299, 2097284
+15253, alpha_ten002, trailer_derevo_1, 299, 2097284
+15254, garage_int_01, garage_int_01, 299, 2097284
+15255, gar_int_r_01, gar_int_txd, 299, 0
+15256, gar_int_r_02, gar_int_txd, 299, 2097284
+15257, garage_int_03, garage_int_03, 299, 2097284
+15258, garage_int_03a, garage_int_03, 299, 2097284
+15259, gar, gar, 150, 0
+15260, gar2, gar, 150, 2130052
+15261, garl1, gar, 150, 0
+15262, garl2, gar, 150, 0
+15263, garp1, gar, 150, 0
+15264, garp2, gar, 150, 0
+15265, garp3, gar, 150, 0
+15266, intacc1, intacc1, 150, 0 
+15267, intacc2, intacc2, 150, 0 
+15268, intacc3, intacc3, 150, 0 
+15269, intacc4, intacc4, 150, 2130052
+15270, sk_int, sk_int, 299, 0
+15271, mangal, mangal, 200, 0
+15272, mangal2, mangal2, 200, 0
+15273, trash_b, trash, 299, 2097284
+15274, trash_g, trash, 299, 2097284
+15275, trash_y, trash, 299, 2097284
+15276, radar1, radar1, 299, 0
+15277, island_bush, islandTXD, 300, 4
+15278, island_foam, islandTXD, 300, 4
+15279, island_land, islandTXD, 300, 0
+15280, island_palm, islandTXD, 300, 2097156
+15281, island_props, islandTXD, 300, 0
+15282, island_va, islandTXD, 300, 68
+15285, zip_charge, zip_charge, 299, 0
 
 
 end
